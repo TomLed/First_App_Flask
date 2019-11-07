@@ -13,3 +13,4 @@ black==19.3b0
 pytest-watch
 mypy
 pytest-mypy
+pytest-flask
